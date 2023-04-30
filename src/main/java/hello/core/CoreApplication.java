@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class CoreApplication {
-	// 테스트 주석
+
 	public static void main(String[] args) {
 		SpringApplication.run(CoreApplication.class, args);
 	}
